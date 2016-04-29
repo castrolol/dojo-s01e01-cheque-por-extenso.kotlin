@@ -16,10 +16,10 @@ preenchimento, vários estabelecimentos possuem máquinas que dado o valor da co
 preenchem o cheque com o seu valor por extenso.
 Desenvolva um programa que dado um valor monetário, seja retornado o valor em reais
 por extenso.
-Exemplo:
-15415,16 -> quinze mil quatrocentos e quinze reais e dezesseis centavos
-0,05 -> cinco centavos
-2,25 -> dois reais e vinte e cinco centavos
+>Exemplo: <br/>
+15415,16 -> quinze mil quatrocentos e quinze reais e dezesseis centavos <br/>
+0,05 -> cinco centavos <br/>
+2,25 -> dois reais e vinte e cinco centavos <br/>
 
 [Link do problema](http://dojopuzzles.com/problemas/exibe/cheque-por-extenso/)
 
