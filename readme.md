@@ -1,7 +1,7 @@
-#  [![Build Status][travis-image]][travis-url]
 
-# Dojo DevMT S01E01 (Versão em Java) 
-Implementação em Java do problema proposto no dojo S01E01 do DevMT
+
+# Dojo DevMT S01E01 (Versão em Kotlin) 
+Implementação em Kotlin do problema proposto no dojo S01E01 do DevMT
 #### Versão original desenvolvida em C#. [Disponivel aqui](https://github.com/devmatogrosso/dojo-s01e01-cheque-por-extenso)
 
 ## Data e Local
@@ -23,6 +23,4 @@ Exemplo:
 
 [Link do problema](http://dojopuzzles.com/problemas/exibe/cheque-por-extenso/)
 
-
-[travis-image]: https://travis-ci.org/gpedro/dojo-s01e01-cheque-por-extenso.java.svg?branch=master
-[travis-url]: https://travis-ci.org/gpedro/dojo-s01e01-cheque-por-extenso.java
+ 
