@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/castrolol/dojo-s01e01-cheque-por-extenso.kotlin.svg?branch=master)](https://travis-ci.org/castrolol/dojo-s01e01-cheque-por-extenso.kotlin)
 
 # Dojo DevMT S01E01 (Versão em Kotlin) 
 Implementação em [Kotlin](https://kotlinlang.org/) do problema proposto no dojo S01E01 do DevMT
