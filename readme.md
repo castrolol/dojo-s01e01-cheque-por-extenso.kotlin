@@ -1,7 +1,7 @@
 
 
 # Dojo DevMT S01E01 (Versão em Kotlin) 
-Implementação em [Kotlin] do problema proposto no dojo S01E01 do DevMT
+Implementação em [Kotlin](https://kotlinlang.org/) do problema proposto no dojo S01E01 do DevMT
 #### Versão original desenvolvida em C#. [Disponivel aqui](https://github.com/devmatogrosso/dojo-s01e01-cheque-por-extenso)
 
 ## Data e Local
@@ -22,5 +22,5 @@ por extenso.
 2,25 -> dois reais e vinte e cinco centavos <br/>
 
 [Link do problema](http://dojopuzzles.com/problemas/exibe/cheque-por-extenso/)
-[Kotlin](https://kotlinlang.org/)
+ 
  
